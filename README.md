@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Dr. Jyoti Pr. Sahoo
+#  Hi, I'm Dr. Jyoti Pr. Sahoo
 **Quantum AI & Federated Learning Researcher | Assistant Professor**
 
 ---
