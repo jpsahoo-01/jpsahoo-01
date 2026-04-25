@@ -1,5 +1,5 @@
 #  Hi, I'm JP
-**Quantum AI & Federated Learning Researcher | Assistant Professor**
+**Quantum AI & Federated Learning Researcher **
 
 ---
 
